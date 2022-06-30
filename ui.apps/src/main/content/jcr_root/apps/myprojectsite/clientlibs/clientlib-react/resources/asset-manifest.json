@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/etc.clientlibs/myprojectsite/clientlibs/clientlib-react/resources/static/css/main.2a17b812.chunk.css",
+    "main.js": "/etc.clientlibs/myprojectsite/clientlibs/clientlib-react/resources/static/js/main.0fbb6534.chunk.js",
+    "main.js.map": "/etc.clientlibs/myprojectsite/clientlibs/clientlib-react/resources/static/js/main.0fbb6534.chunk.js.map",
+    "runtime-main.js": "/etc.clientlibs/myprojectsite/clientlibs/clientlib-react/resources/static/js/runtime-main.c9e7016f.js",
+    "runtime-main.js.map": "/etc.clientlibs/myprojectsite/clientlibs/clientlib-react/resources/static/js/runtime-main.c9e7016f.js.map",
+    "static/js/2.e9a943bf.chunk.js": "/etc.clientlibs/myprojectsite/clientlibs/clientlib-react/resources/static/js/2.e9a943bf.chunk.js",
+    "static/js/2.e9a943bf.chunk.js.map": "/etc.clientlibs/myprojectsite/clientlibs/clientlib-react/resources/static/js/2.e9a943bf.chunk.js.map",
+    "index.html": "/etc.clientlibs/myprojectsite/clientlibs/clientlib-react/resources/index.html",
+    "precache-manifest.087b0190e1f379d272f55939bb61199a.js": "/etc.clientlibs/myprojectsite/clientlibs/clientlib-react/resources/precache-manifest.087b0190e1f379d272f55939bb61199a.js",
+    "service-worker.js": "/etc.clientlibs/myprojectsite/clientlibs/clientlib-react/resources/service-worker.js",
+    "static/css/main.2a17b812.chunk.css.map": "/etc.clientlibs/myprojectsite/clientlibs/clientlib-react/resources/static/css/main.2a17b812.chunk.css.map",
+    "static/js/2.e9a943bf.chunk.js.LICENSE.txt": "/etc.clientlibs/myprojectsite/clientlibs/clientlib-react/resources/static/js/2.e9a943bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9e7016f.js",
+    "static/js/2.e9a943bf.chunk.js",
+    "static/css/main.2a17b812.chunk.css",
+    "static/js/main.0fbb6534.chunk.js"
+  ]
+}
